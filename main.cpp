@@ -1,12 +1,6 @@
 #include <iostream>
 #include <string>
-#include <cmath> // for sqrt, sin
-#include <climits>
 #include <iomanip>
-#include<array>
-#include<random> // for random_device
-#include <cstdlib> // For rand and srand
-#include <ctime>   // For the time function
 #include <sstream>
 
 using namespace std;
